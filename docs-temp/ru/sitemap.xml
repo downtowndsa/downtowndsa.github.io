@@ -2,55 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://downtowndsa.github.io/ru/categories/</loc>
+    <loc>downtowndsa.com/ru/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://downtowndsa.github.io/categories/"
+                href="downtowndsa.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://downtowndsa.github.io/zh/categories/"
+                href="downtowndsa.com/zh/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://downtowndsa.github.io/ru/categories/"
+                href="downtowndsa.com/ru/categories/"
                 />
   </url><url>
-    <loc>https://downtowndsa.github.io/ru/</loc>
+    <loc>downtowndsa.com/ru/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://downtowndsa.github.io/"
+                href="downtowndsa.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://downtowndsa.github.io/zh/"
+                href="downtowndsa.com/zh/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://downtowndsa.github.io/ru/"
+                href="downtowndsa.com/ru/"
                 />
   </url><url>
-    <loc>https://downtowndsa.github.io/ru/tags/</loc>
+    <loc>downtowndsa.com/ru/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://downtowndsa.github.io/tags/"
+                href="downtowndsa.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://downtowndsa.github.io/zh/tags/"
+                href="downtowndsa.com/zh/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="https://downtowndsa.github.io/ru/tags/"
+                href="downtowndsa.com/ru/tags/"
                 />
   </url>
 </urlset>
