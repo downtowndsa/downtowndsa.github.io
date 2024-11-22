@@ -2,55 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>downtowndsa.com/ru/categories/</loc>
+    <loc>www.downtowndsa.com/ru/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="downtowndsa.com/categories/"
+                href="www.downtowndsa.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="downtowndsa.com/zh/categories/"
+                href="www.downtowndsa.com/zh/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="downtowndsa.com/ru/categories/"
+                href="www.downtowndsa.com/ru/categories/"
                 />
   </url><url>
-    <loc>downtowndsa.com/ru/</loc>
+    <loc>www.downtowndsa.com/ru/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="downtowndsa.com/"
+                href="www.downtowndsa.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="downtowndsa.com/zh/"
+                href="www.downtowndsa.com/zh/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="downtowndsa.com/ru/"
+                href="www.downtowndsa.com/ru/"
                 />
   </url><url>
-    <loc>downtowndsa.com/ru/tags/</loc>
+    <loc>www.downtowndsa.com/ru/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="downtowndsa.com/tags/"
+                href="www.downtowndsa.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="downtowndsa.com/zh/tags/"
+                href="www.downtowndsa.com/zh/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="downtowndsa.com/ru/tags/"
+                href="www.downtowndsa.com/ru/tags/"
                 />
   </url>
 </urlset>

@@ -1,0 +1,1 @@
+navigator.serviceWorker&&navigator.serviceWorker.register("www.downtowndsa.com/sw.js",{scope:"/www.downtowndsa.com/"})
