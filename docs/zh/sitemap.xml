@@ -2,55 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>www.downtowndsa.com/zh/categories/</loc>
+    <loc>https://www.downtowndsa.com/zh/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="www.downtowndsa.com/categories/"
+                href="https://www.downtowndsa.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="www.downtowndsa.com/ru/categories/"
+                href="https://www.downtowndsa.com/ru/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="www.downtowndsa.com/zh/categories/"
+                href="https://www.downtowndsa.com/zh/categories/"
                 />
   </url><url>
-    <loc>www.downtowndsa.com/zh/</loc>
+    <loc>https://www.downtowndsa.com/zh/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="www.downtowndsa.com/"
+                href="https://www.downtowndsa.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="www.downtowndsa.com/ru/"
+                href="https://www.downtowndsa.com/ru/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="www.downtowndsa.com/zh/"
+                href="https://www.downtowndsa.com/zh/"
                 />
   </url><url>
-    <loc>www.downtowndsa.com/zh/tags/</loc>
+    <loc>https://www.downtowndsa.com/zh/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="www.downtowndsa.com/tags/"
+                href="https://www.downtowndsa.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
-                href="www.downtowndsa.com/ru/tags/"
+                href="https://www.downtowndsa.com/ru/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="www.downtowndsa.com/zh/tags/"
+                href="https://www.downtowndsa.com/zh/tags/"
                 />
   </url>
 </urlset>
